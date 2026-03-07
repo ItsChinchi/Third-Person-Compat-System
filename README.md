@@ -2,6 +2,7 @@
 A third-person action game built in Unity from a GameDev.tv course, featuring fluid character movement, melee combat, and traversal mechanics.
 
 ## 🎮 Gameplay
+https://drive.google.com/file/d/13DlJscDqQwMSsaRS3rxXI6MyuhzrSZhx/view?usp=sharing
 
 ## ✨ Features
 - Third-person character controller with smooth locomotion
@@ -29,3 +30,4 @@ A third-person action game built in Unity from a GameDev.tv course, featuring fl
 - Animator / Root Motion
 
 ## 📸 Screenshots
+<img width="1297" height="747" alt="Screenshot 2026-03-07 214630" src="https://github.com/user-attachments/assets/6faef269-4ff6-45b6-896b-4ad4045be435" />
