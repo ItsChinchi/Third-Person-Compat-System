@@ -1,5 +1,5 @@
 # Third-Person Combat & Traversal — Unity
-A third-person action game built in Unity from a GameDev.tv course, featuring fluid character movement, melee combat, and traversal mechanics.
+A third-person action game built in Unity, featuring fluid character movement, melee combat, and traversal mechanics.
 
 ## 🎮 Gameplay
 https://drive.google.com/file/d/13DlJscDqQwMSsaRS3rxXI6MyuhzrSZhx/view?usp=sharing
